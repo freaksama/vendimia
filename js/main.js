@@ -733,7 +733,7 @@ function soloNumeros(e){
 
 	if(	e.key=='F5' 		|| 
 		e.key=='.' 			|| 
-		e.key=='tab' 		||
+		e.key=='Tab' 		||
 		e.key=='Backspace' 	||
 		e.key=='ArrowLeft' 	||
 		e.key=='ArrowRight' ||
